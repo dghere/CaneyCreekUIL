@@ -14,6 +14,9 @@ public class point_collection {
 		// TODO Auto-generated method stub
 		Scanner in = new Scanner(new File("point_collection.dat"));
 		
+		
+		
+		
 		//while(in.hasNext())
 		{
 			max_moves = in.nextInt();
